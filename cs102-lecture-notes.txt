@@ -1,0 +1,5 @@
+git clone - creates copy of remote git repository on the local system 
+git status - useful for understanding current state of git repository 
+git add - adds changes in the working directory to the staging area 
+git commit - records the changes into the repository 
+git init - initializes new git repository 
